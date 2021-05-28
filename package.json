@@ -1,0 +1,30 @@
+{
+  "name": "libraryapp",
+  "version": "1.0.0",
+  "description": "um trabalho com o objetivo de fazer um site sobre uma livraria",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandresalvador/LibraryApp.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "ejs",
+    "api",
+    "json"
+  ],
+  "author": "alexandresalvador",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexandresalvador/LibraryApp/issues"
+  },
+  "homepage": "https://github.com/alexandresalvador/LibraryApp#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
