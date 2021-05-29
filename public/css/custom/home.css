@@ -1,0 +1,52 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    border: 10px solid red;
+  }
+
+  .row {
+    margin: 0;
+  }
+
+  .container {
+    padding: 70% 0;
+  }
+
+  .container2 {
+    padding-top: 7%;
+  }
+
+  p,li {
+    color: #444;
+    font-size: 14px;
+  }
+
+  header, .navbar {
+    background-color: #6dbfe7;
+  }
+
+  #nav-container {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  #logo {
+    width: 75px;
+  }
+
+  .navbar-brand {
+    padding: 0;
+    color: #fff;
+  }
+
+  .navbar-brand:hover {
+    color: rgba(26, 23, 23, 0.2);
+  }
+
+  #navbar-links a {
+    color: #fff;
+  }
+ 
+
+  .navbar-expand-lg  .navbar-nav .nav-link {
+    padding: 1rem .8rem;
+  }

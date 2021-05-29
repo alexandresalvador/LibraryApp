@@ -29,6 +29,9 @@ app.get('/pedidos', function(req, res) {
     res.send('Olá, listar o pedido/carrinho de compras');
 });
 
+app.get('/add', function(req, res) {
+    res.render('newlivro');
+});
 
 app.listen(9010, (erro) => {
     if(erro) {

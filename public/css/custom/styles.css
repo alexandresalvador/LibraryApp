@@ -1,0 +1,48 @@
+
+ body {
+  font-family: 'Roboto', sans-serif;
+  border: 10px solid blue;
+}
+
+.row {
+  margin: 0;
+}
+
+.container {
+  padding: 70% 0;
+}
+
+p,li {
+  color: #444;
+  font-size: 14px;
+}
+
+header, .navbar {
+  background-color: black;
+}
+
+#nav-container {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+#logo {
+  width: 75px;
+}
+
+.navbar-brand {
+  padding: 0;
+  color: #fff;
+}
+
+.navbar-brand:hover {
+  color: orangered;
+}
+
+#navbar-links a {
+  color: #fff;
+}
+
+.navbar-expand-lg  .navbar-nav .nav-link {
+  padding: 1rem .8rem;
+}
